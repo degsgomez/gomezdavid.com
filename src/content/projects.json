@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "name": "Torres del Valle",
+    "description": "Social media strategy and content creation for modern residential development project",
+    "type": "Social Media",
+    "image": "/images/projects/torres-valle.jpg",
+    "link": "https://thinkhub.marketing/portfolio/bello-horizonte/"
+  },
+  {
+    "name": "Banco Ficohsa",
+    "description": "Digital marketing campaigns and brand positioning for leading financial institution",
+    "type": "Social Media",
+    "image": "/images/projects/banco-ficohsa.jpg",
+    "link": "https://thinkhub.marketing/portfolio/banco-ficohsa/"
+  },
+  {
+    "name": "Molinos de Honduras",
+    "description": "Video production and multimedia content for major food manufacturing company",
+    "type": "Video Production",
+    "image": "/images/projects/molinos-honduras.jpg",
+    "link": "https://thinkhub.marketing/portfolio/molinos-honduras/"
+  }
+]
