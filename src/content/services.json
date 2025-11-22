@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Content Strategy & Creation",
+    "description": "Develop and execute comprehensive content strategies across blogs, social media, email campaigns, and corporate materials aligned with brand voice and business goals.",
+    "icon": "📝"
+  },
+  {
+    "title": "SEO & Link Building",
+    "description": "Create SEO-optimized content that drives organic traffic, improves search rankings, and builds high-quality backlinks to strengthen digital presence.",
+    "icon": "🔍"
+  },
+  {
+    "title": "English-Spanish Localization",
+    "description": "Adapt marketing content and brand messaging for U.S. Hispanic and LATAM markets, ensuring cultural relevance and authentic communication.",
+    "icon": "🌎"
+  },
+  {
+    "title": "Social Media Management",
+    "description": "Plan and execute social media strategies with engaging content calendars, community management, and performance tracking across platforms.",
+    "icon": "📱"
+  },
+  {
+    "title": "Email & Blog Campaigns",
+    "description": "Design and deliver targeted email marketing campaigns and blog content that nurture leads, drive conversions, and build audience loyalty.",
+    "icon": "✉️"
+  },
+  {
+    "title": "Brand Messaging & Communications",
+    "description": "Craft compelling brand narratives, messaging frameworks, and communication strategies that resonate with target audiences and drive engagement.",
+    "icon": "💬"
+  }
+]

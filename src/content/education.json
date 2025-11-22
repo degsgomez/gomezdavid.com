@@ -1,0 +1,18 @@
+[
+  {
+    "degree": "Master of Business Administration (MBA)",
+    "school": "East Carolina University",
+    "location": "Greenville, NC",
+    "graduationDate": "Completed",
+    "description": "Graduate degree in Business Administration focusing on leadership, strategy, and organizational management.",
+    "highlights": []
+  },
+  {
+    "degree": "Bachelor of Science in Network Information Technology",
+    "school": "Central Connecticut State University",
+    "location": "New Britain, CT",
+    "graduationDate": "Completed",
+    "description": "Undergraduate degree in Network Information Technology with focus on networking, systems administration, and IT infrastructure.",
+    "highlights": []
+  }
+]

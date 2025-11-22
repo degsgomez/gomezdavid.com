@@ -1,0 +1,65 @@
+[
+  {
+    "title": "CollabHelper",
+    "description": "AI-powered Cisco Collaboration assistant using Retrieval-Augmented Generation (RAG) with FAISS and LangChain. Ask questions about CUCM, Unity, Webex, and other Cisco Collaboration tools and receive intelligent, context-aware answers.",
+    "tech": ["Python", "FAISS", "LangChain", "RAG", "AI/ML", "Cisco APIs"],
+    "github": "",
+    "demo": "https://collabhelper.com",
+    "image": "/projects/collabhelper.svg",
+    "featured": true
+  },
+  {
+    "title": "FV Analyzer",
+    "description": "Comprehensive financial planning suite featuring Future Value Calculator, Debt Snowball Calculator, Mortgage Payment Calculator with amortization schedules, and Retirement Savings Calculator. Built to help users make informed financial decisions.",
+    "tech": ["JavaScript", "React", "Financial Algorithms", "AWS"],
+    "github": "",
+    "demo": "https://fvanalyzer.com",
+    "image": "/projects/fv-analyzer.svg",
+    "featured": true
+  },
+  {
+    "title": "Value Stock Analyzer",
+    "description": "Real-time stock analysis tool for value investors. Instantly analyze publicly traded companies using key metrics like P/E Ratio and Return on Assets (ROA) to identify undervalued investment opportunities and assess operational efficiency.",
+    "tech": ["Python", "FastAPI", "Financial APIs", "AWS", "Stock Market Data"],
+    "github": "",
+    "demo": "https://valuestockanalyzer.com",
+    "image": "/projects/value-stock-analyzer.svg",
+    "featured": true
+  },
+  {
+    "title": "Tampa Perfect Cleaning",
+    "description": "Professional static website for Tampa Perfect Cleaning - a family-owned house cleaning service in Tampa Bay. Modern, responsive design with online booking integration, SEO optimization, and service area pages for Tampa, Land O Lakes, Wesley Chapel, Lutz, Odessa, and Zephyrhills.",
+    "tech": ["Astro", "Tailwind CSS", "DaisyUI", "Zenbooker", "Cloudflare Pages"],
+    "github": "https://github.com/bryantbarzola/tampaperfectcleaning.com",
+    "demo": "https://tampaperfectcleaning.com",
+    "image": "/projects/tampaperfectcleaning.jpeg",
+    "featured": true
+  },
+  {
+    "title": "CUCM Live Monitor",
+    "description": "Real-time monitoring dashboard for Cisco Unified Communications Manager. Displays active calls, device registration status, individual phone call states, and cluster node health with WebSocket-based live updates every 5 seconds.",
+    "tech": ["Python", "FastAPI", "WebSocket", "Cisco RIS API", "Docker", "PerfMon"],
+    "github": "https://github.com/bryantbarzola/CUCM-Live-Monitor",
+    "demo": "",
+    "image": "/projects/cucm-monitor.svg",
+    "featured": true
+  },
+  {
+    "title": "Webex AI Bot",
+    "description": "Customizable Webex Teams bot powered by OpenAI's GPT models with configurable personalities. Choose from 9+ personality templates (Professional, TARS, Yoda, Pirate, etc.) or create your own. Docker-ready with simple environment variable configuration.",
+    "tech": ["Python", "OpenAI API", "Webex Bot SDK", "Docker", "WebSockets"],
+    "github": "https://github.com/bryantbarzola/Webex-AI-Bot",
+    "demo": "",
+    "image": "/projects/webex-ai-bot.svg",
+    "featured": true
+  },
+  {
+    "title": "Personal Portfolio",
+    "description": "Modern, minimalist portfolio website built with Astro and Tailwind CSS. Features dark aesthetic with emerald accents, smooth animations, and fully responsive design. Optimized for performance with static site generation and deployed on Cloudflare Pages CDN.",
+    "tech": ["Astro", "Tailwind CSS", "TypeScript", "Cloudflare Pages"],
+    "github": "",
+    "demo": "https://bryantbarzola.com",
+    "image": "/projects/portfolio.svg",
+    "featured": true
+  }
+]

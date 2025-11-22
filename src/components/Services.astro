@@ -1,0 +1,24 @@
+---
+import services from '../content/services.json';
+---
+
+<section id="services" class="py-24 px-6 bg-gray-50">
+  <div class="max-w-6xl mx-auto">
+    <div class="text-center mb-20">
+      <h2 class="text-5xl md:text-6xl font-bold text-gray-900 mb-6">Services</h2>
+      <p class="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
+        Comprehensive marketing and content solutions tailored to your brand's needs
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {services.map((service) => (
+        <div class="bg-white rounded-2xl p-8 hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
+          <div class="text-5xl mb-6">{service.icon}</div>
+          <h3 class="text-2xl font-bold text-gray-900 mb-4">{service.title}</h3>
+          <p class="text-gray-600 leading-relaxed">{service.description}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

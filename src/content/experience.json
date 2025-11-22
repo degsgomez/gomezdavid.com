@@ -1,0 +1,42 @@
+[
+  {
+    "company": "DG Digital",
+    "position": "Marketing & Content Strategy Director",
+    "location": "Remote",
+    "startDate": "Feb 2018",
+    "endDate": "Jul 2025",
+    "description": "Founded and led a bilingual content and strategy agency serving clients across LATAM and the U.S., delivering comprehensive marketing solutions and high-impact content.",
+    "highlights": [
+      "Developed and executed cross-channel marketing strategies including social media, blogs, email campaigns, and corporate presentations",
+      "Oversaw production and localization of educational, social, commercial, and government-facing content across U.S. and LATAM markets",
+      "Managed end-to-end project delivery from ideation to execution, ensuring brand consistency and strategic alignment",
+      "Collaborated with clients, designers, editors, and creative partners to deliver results-driven content that drove measurable engagement"
+    ]
+  },
+  {
+    "company": "Campus TV",
+    "position": "Reporter & Presenter",
+    "location": "Honduras",
+    "startDate": "Jan 2017",
+    "endDate": "Dec 2017",
+    "description": "Produced and hosted live and recorded content for a national university television station, delivering engaging news and feature segments.",
+    "highlights": [
+      "Conducted interviews and scripted features for broadcast television",
+      "Collaborated with studio production teams to deliver professional audiovisual content",
+      "Developed on-camera presence and storytelling skills for diverse audiences"
+    ]
+  },
+  {
+    "company": "Costa's Burger",
+    "position": "Operations Manager",
+    "location": "Honduras",
+    "startDate": "Jan 2013",
+    "endDate": "Dec 2016",
+    "description": "Managed restaurant operations and marketing initiatives to boost brand awareness, customer engagement, and local visibility.",
+    "highlights": [
+      "Designed and led promotional campaigns and events that increased foot traffic and brand recognition",
+      "Developed visual identity and brand assets for social media and printed materials",
+      "Coordinated daily operations while driving marketing strategy and customer experience improvements"
+    ]
+  }
+]

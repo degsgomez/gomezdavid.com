@@ -1,0 +1,64 @@
+---
+import '../styles/global.css';
+import config from '../content/config.json';
+
+interface Props {
+	title?: string;
+	description?: string;
+}
+
+const {
+	title = `${config.name} | ${config.title} | AI Automation & Collaboration Expert`,
+	description = `Consulting Engineer at Cisco with 8+ years expertise in AI-driven automation, SD-WAN, and Collaboration technologies. Built RAG systems with FAISS & LangChain, 200+ automation scripts. CCNP & MBA certified.`
+} = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const ogImage = new URL('/photo.jpg', Astro.site);
+---
+
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+
+		<!-- Primary Meta Tags -->
+		<title>{title}</title>
+		<meta name="title" content={title} />
+		<meta name="description" content={description} />
+		<meta name="author" content={config.name} />
+		<link rel="canonical" href={canonicalURL} />
+
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content={canonicalURL} />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:image" content={ogImage} />
+		<meta property="og:site_name" content={config.name} />
+		<meta property="og:locale" content="en_US" />
+
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content={canonicalURL} />
+		<meta property="twitter:title" content={title} />
+		<meta property="twitter:description" content={description} />
+		<meta property="twitter:image" content={ogImage} />
+		<meta property="twitter:creator" content="@bryantbarzola" />
+
+		<!-- Additional SEO -->
+		<meta name="keywords" content="Bryant Barzola, Consulting Engineer, Cisco, AI Automation, RAG Systems, FAISS, LangChain, SD-WAN, Collaboration, CCNP, MBA, Enterprise IT, Network Engineer" />
+		<meta name="robots" content="index, follow" />
+	</head>
+	<body class="bg-white text-gray-900 antialiased">
+		<slot />
+	</body>
+</html>
+
+<style is:global>
+	@view-transition {
+		navigation: auto;
+	}
+</style>

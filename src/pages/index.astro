@@ -1,0 +1,24 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Hero from '../components/Hero.astro';
+import About from '../components/About.astro';
+import Services from '../components/Services.astro';
+import Experience from '../components/Experience.astro';
+import Skills from '../components/Skills.astro';
+import Contact from '../components/Contact.astro';
+import Navigation from '../components/Navigation.astro';
+
+const title = 'David Gomez - Marketing & Content Strategy';
+---
+
+<Layout title={title}>
+	<Navigation />
+	<main class="relative">
+		<Hero />
+		<About />
+		<Services />
+		<Experience />
+		<Skills />
+		<Contact />
+	</main>
+</Layout>
