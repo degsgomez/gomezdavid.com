@@ -19,13 +19,12 @@
     "type": "Video Production",
     "image": "/images/projects/mdh.png",
     "link": "https://thinkhub.marketing/portfolio/molinos-honduras/"
+  },
+  {
+    "name": "Cataleya Restaurant",
+    "description": "Social media strategy and content creation for Honduran restaurant brand",
+    "type": "Social Media",
+    "image": "/images/projects/cata.png",
+    "link": "https://en.thinkhub.marketing/case/restaurant-cataleya-honduran/"
   }
 ]
-{
-  "name": "Cataleya Restaurant",
-  "description": "Social media strategy and content creation for Honduran restaurant brand",
-  "type": "Social Media",
-  "image": "/images/projects/cata.png",
-  "link": "https://en.thinkhub.marketing/case/restaurant-cataleya-honduran/"
-}
-
