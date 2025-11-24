@@ -26,5 +26,82 @@
     "type": "Social Media",
     "image": "/images/projects/cata.png",
     "link": "https://en.thinkhub.marketing/case/restaurant-cataleya-honduran/"
+  },
+  {
+    "name": "Bello Horizonte",
+    "description": "Digital campaign for residential development focused on families seeking security and strategic location",
+    "type": "Social Media",
+    "image": "/images/projects/bh.png",
+    "link": "https://thinkhub.marketing/portfolio/bello-horizonte-2/"
+  },
+  {
+    "name": "Frijoles Rojitos",
+    "description": "Emotional campaign celebrating Mother's Day and the love Honduran mothers express through food",
+    "type": "Social Media",
+    "image": "/images/projects/fr.png",
+    "link": "https://thinkhub.marketing/portfolio/frijoles-rojitos/"
+  },
+  {
+    "name": "Hospital Veterinario Dogs & Cats",
+    "description": "Content strategy to strengthen digital presence and connect emotionally with pet owners",
+    "type": "Social Media",
+    "image": "/images/projects/hvdc.png",
+    "link": "https://thinkhub.marketing/portfolio/hospital-veterinario-dogs-cats/"
+  },
+  {
+    "name": "Manuchar Agro",
+    "description": "Digital campaign for fertilizer brand positioning as technical, reliable and accessible",
+    "type": "Social Media",
+    "image": "/images/projects/ma.png",
+    "link": "https://thinkhub.marketing/portfolio/manuchar-agro/"
+  },
+  {
+    "name": "XFIT Martial Arts",
+    "description": "Community-focused content promoting discipline, respect and personal growth through martial arts",
+    "type": "Social Media",
+    "image": "/images/projects/xfit.png",
+    "link": "https://thinkhub.marketing/portfolio/xfit-martial-arts/"
+  },
+  {
+    "name": "Costas Burguer",
+    "description": "Integral social media strategy to modernize brand identity for restaurant chain",
+    "type": "Social Media",
+    "image": "/images/projects/cb.png",
+    "link": "https://thinkhub.marketing/portfolio/costas-burguer/"
+  },
+  {
+    "name": "Breakfast Cataleya",
+    "description": "Visual production capturing sophisticated breakfast experience with creative direction and styling",
+    "type": "Video Production",
+    "image": "/images/projects/bc.png",
+    "link": "https://thinkhub.marketing/portfolio/breakfast-cataleya/"
+  },
+  {
+    "name": "CEMILAGH Dr. Pinto",
+    "description": "Empathetic visual piece communicating conscious gynecological care and women's health values",
+    "type": "Video Production",
+    "image": "/images/projects/cdp.png",
+    "link": "https://thinkhub.marketing/portfolio/campana-cuidado-ginecologico/"
+  },
+  {
+    "name": "Hospital Dogs & Cats - Sterilization",
+    "description": "Educational audiovisual campaign about responsible pet sterilization decisions",
+    "type": "Video Production",
+    "image": "/images/projects/hdcs.png",
+    "link": "https://thinkhub.marketing/portfolio/esterilizacion-dogs-cats/"
+  },
+  {
+    "name": "Xfit Fight Night 26",
+    "description": "Integral audiovisual coverage of combat sports event with cinematic style",
+    "type": "Video Production",
+    "image": "/images/projects/xfitf.png",
+    "link": "https://thinkhub.marketing/portfolio/xfit-fight/"
+  },
+  {
+    "name": "Refricenter",
+    "description": "Video series with practical tips on air conditioning use, cleaning and efficiency",
+    "type": "Video Production",
+    "image": "/images/projects/rc.png",
+    "link": "https://thinkhub.marketing/portfolio/refricenter/"
   }
 ]
