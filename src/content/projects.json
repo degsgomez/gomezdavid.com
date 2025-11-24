@@ -52,14 +52,14 @@
     "name": "Manuchar Agro",
     "description": "Digital campaign for fertilizer brand positioning as technical, reliable and accessible",
     "type": "Social Media",
-    "image": "/images/projects/ma.png",
+    "image": "/images/projects/man.png",
     "link": "https://thinkhub.marketing/portfolio/manuchar-agro/"
   },
   {
     "name": "XFIT Martial Arts",
     "description": "Community-focused content promoting discipline, respect and personal growth through martial arts",
     "type": "Social Media",
-    "image": "/images/projects/xfit.png",
+    "image": "/images/projects/xf.png",
     "link": "https://thinkhub.marketing/portfolio/xfit-martial-arts/"
   },
   {
@@ -73,35 +73,35 @@
     "name": "Breakfast Cataleya",
     "description": "Visual production capturing sophisticated breakfast experience with creative direction and styling",
     "type": "Video Production",
-    "image": "/images/projects/bc.png",
+    "image": "/images/projects/cata.png",
     "link": "https://thinkhub.marketing/portfolio/breakfast-cataleya/"
   },
   {
     "name": "CEMILAGH Dr. Pinto",
     "description": "Empathetic visual piece communicating conscious gynecological care and women's health values",
     "type": "Video Production",
-    "image": "/images/projects/cdp.png",
+    "image": "/images/projects/cemi.png",
     "link": "https://thinkhub.marketing/portfolio/campana-cuidado-ginecologico/"
   },
   {
     "name": "Hospital Dogs & Cats - Sterilization",
     "description": "Educational audiovisual campaign about responsible pet sterilization decisions",
     "type": "Video Production",
-    "image": "/images/projects/hdcs.png",
+    "image": "/images/projects/hvdc.png",
     "link": "https://thinkhub.marketing/portfolio/esterilizacion-dogs-cats/"
   },
   {
     "name": "Xfit Fight Night 26",
     "description": "Integral audiovisual coverage of combat sports event with cinematic style",
     "type": "Video Production",
-    "image": "/images/projects/xfitf.png",
+    "image": "/images/projects/xf2.png",
     "link": "https://thinkhub.marketing/portfolio/xfit-fight/"
   },
   {
     "name": "Refricenter",
     "description": "Video series with practical tips on air conditioning use, cleaning and efficiency",
     "type": "Video Production",
-    "image": "/images/projects/rc.png",
+    "image": "/images/projects/refri.png",
     "link": "https://thinkhub.marketing/portfolio/refricenter/"
   }
 ]
